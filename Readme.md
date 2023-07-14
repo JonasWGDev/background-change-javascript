@@ -15,7 +15,7 @@ Este é um projeto básico que ao clicar no botão ira trocar a cor do fundo da 
 - Geração de numeros aleatorios
 
 ## Link para acessar o site desenvolvido
-[Clique aqui][https://jonaswgdev.github.io/background-change-javascript/]
+[Clique aqui](https://jonaswgdev.github.io/background-change-javascript/)
 
 ## Contato
 
